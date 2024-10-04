@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "mammoth": "^1.8.0"
+  }
+}
